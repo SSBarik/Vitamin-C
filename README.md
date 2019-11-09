@@ -2,7 +2,7 @@
 Are you suffering vitamin C deficiency in your programming life?<br />
 _Let's diagnose:_<br />
 ```
-if(you are able to do this repo's programs with ease)
+if(you are able to code this repo's programs with ease)
 {
   Congratulations! Seems like you know some basics of C;
   But keep learning new things to live a vitamin C rich programming life;
