@@ -5,12 +5,13 @@ _Let's diagnose:_<br />
 if(you are able to do this repo's programs with ease)
 {
   Congratulations! Seems like you know some basics of C;
-  But keep learning new things to become rich in vitamin C;
+  But keep learning new things to live a vitamin C rich programming life;
+  Happy Coding;
 }
 else
 {
   You need to hone up your skills;
-  All the best!;
+  Happy Coding;
 }
 ```
 ***Feel free to contribute!***
