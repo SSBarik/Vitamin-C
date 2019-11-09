@@ -1,6 +1,6 @@
 # Vitamin-C
 Are you suffering vitamin C deficiency in your programming life?<br />
-_Get your diagnosis done ASAP:_<br />
+_Let's diagnose:_<br />
 ```
 if(you are able to do this repo's programs with ease)
 {
