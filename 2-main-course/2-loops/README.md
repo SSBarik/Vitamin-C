@@ -1,4 +1,4 @@
-# Loops | Main Course | Vitamin-C
+# Loops 
 **P1.** Print a full Pyramid.<br />
 **P2.** Print Floyd's triangle.<br />
 **P3.** Print Pascal's triangle.<br />
