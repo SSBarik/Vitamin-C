@@ -1,2 +1,2 @@
-# Arrays | Main Course | Vitamin-C
+# Arrays 
 **P1.** WAP to perform matrix multiplication.
