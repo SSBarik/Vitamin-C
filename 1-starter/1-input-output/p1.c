@@ -1,5 +1,5 @@
 /*
-WAP to accept date(format: date/month/year or date-month-year) as the user input and display the date, mohtn & year separately.
+WAP to accept date(format: date/month/year or date-month-year) as the user input and display the date, month & year separately.
 
 Expected Output:
 --------------------------------
