@@ -5,10 +5,9 @@ Expected Output:
 --------------------------
 Enter a 3-digit number: 456
 Reverse of the number is 654.
-/*
+*/
 
 #include<stdio.h>
-
 int main()
 {
     int num, rev = 0;
@@ -23,5 +22,5 @@ int main()
     }
     
     printf("Reverse of the number : %d\n", rev);
-	return 0;
+    return 0;
 }
