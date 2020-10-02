@@ -11,7 +11,7 @@ Year: 2019
 
 #include<stdio.h>
 
-int main()
+int main(void)
 {
 	int date, month, year;
 	
