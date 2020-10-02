@@ -16,7 +16,7 @@ int main(void)
 	int date, month, year;
 	
 	printf("Input date: ");
-	scanf("%d%*[/-]%d%*[/-]%d%[/-]", &date, &month, &year); //using assignment suppression, less memory usage as there are still 5 format specifiers but only 3 arguments
+	scanf("%d%*[/-]%d%*[/-]%d%*[/-]", &date, &month, &year); //using assignment suppression, less memory usage as there are still 5 format specifiers but only 3 arguments
 	printf("Date: %d \nMonth: %d \nYear: %d", date, month, year);
 	
 	return 0;
