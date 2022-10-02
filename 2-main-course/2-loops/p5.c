@@ -15,18 +15,5 @@ Fibonacci terms greater than 4 and less than 30:
 
 int main()
 {
-    int a,b;
-    a=0;
-    b=1;
-    for(int i=0;i<10;i++){
-        int temp=a+b;
-        a=b;
-        b=temp;
-        
-        //this extra condition is for ignoring extra comma after 21
-        if(temp==21){printf("%d",temp);continue;}
-        
-        if(temp>=4 && temp<=30) printf("%d, ",temp);
-    }
 	return 0;
 }
