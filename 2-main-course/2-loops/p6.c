@@ -18,5 +18,20 @@ Sum = 4.6
 
 int main()
 {
+	float num = 0;
+	float sum = 0;
+
+	printf("Enter a number: ");
+	scanf("%f", &num);
+
+	while(num != 0) 
+	{
+		sum += num;
+		printf("Enter a number: ");
+		scanf("%f", &num);
+	}
+
+	printf("\nSum = %3.2f\n", sum);
+
 	return 0;
 }
