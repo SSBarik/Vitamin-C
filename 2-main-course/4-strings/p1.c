@@ -13,8 +13,33 @@ Yay! It's a Palindrome.
 */
 
 #include<stdio.h>
+#include<string.h>
+
+#define MAX_LIMIT 20
+
+void isPalindrome(char str[]){
+    int start = 0;
+    int end = strlen(str) - 1;
+
+    while (end > start)
+    {
+        if (str[start++] != str[end--])
+        {
+            printf("Not a Palindrome!\n");
+            return;
+        }
+    }
+    printf("Yay! It's a Palindrome.\n");
+ }
 
 int main()
 {
-	return 0;
+    char str[MAX_LIMIT];
+
+    printf("Enter a string: ");
+    scanf("%s", str);
+
+    isPalindrome(str);
+
+ 	return 0;
 }
